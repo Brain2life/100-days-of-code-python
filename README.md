@@ -3,3 +3,4 @@ Exercises and projects from "100 Days of Code: The Complete Python Pro Bootcamp 
 
 ## Table of contents:
 1. [Day 1: Working with variables in Python to manage data](../../tree/day-1)
+2. [Day 2: Undersanding data types and how to manipulate strings](../../tree/day-2)
