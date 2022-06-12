@@ -6,3 +6,4 @@ Exercises and projects from "100 Days of Code: The Complete Python Pro Bootcamp 
 2. [Day 2: Undersanding data types and how to manipulate strings](../../tree/day-2)
 3. [Day 3: Control flow and logical operators](../../tree/day-3)
 4. [Day 4: Randomization and Python lists](../../tree/day-4)
+5. [Day 5: Python Loops](../../tree/day-5)
